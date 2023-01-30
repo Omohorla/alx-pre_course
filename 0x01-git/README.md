@@ -1,2 +1,2 @@
-doing hard thing
+doing hard thing.
 i have updated file in mu readme
